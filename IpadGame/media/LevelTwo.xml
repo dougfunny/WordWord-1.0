@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:31c9c9979e47b46195290d755fda4071$ -->
+<TextureAtlas imagePath="media.png">
+    <SubTexture name="Level2" x="2" y="2" width="1680" height="1050"/>
+</TextureAtlas>
